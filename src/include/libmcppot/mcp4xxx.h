@@ -1,6 +1,9 @@
 #ifndef MCP4XXX_H
 #define MCP4XXX_H
 
+// Depends on pot model
+#define POT_RESOLUTION 128
+
 // Table 6-2
 #define POT_ADDR 0x2E // 0101 110
 
