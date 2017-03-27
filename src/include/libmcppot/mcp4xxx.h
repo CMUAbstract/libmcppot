@@ -1,6 +1,8 @@
 #ifndef MCP4XXX_H
 #define MCP4XXX_H
 
+#include <stdint.h>
+
 // Depends on pot model
 #define POT_RESOLUTION 128
 
