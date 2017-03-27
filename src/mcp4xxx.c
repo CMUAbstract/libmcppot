@@ -1,7 +1,6 @@
 #include <msp430.h>
 #include <stdint.h>
 
-#include <libio/printf.h>
 #include <libmspware/driverlib.h>
 
 #include "mcp4xxx.h"
