@@ -25,6 +25,8 @@
 #define OFFSET_CMD 2
 
 uint8_t pot_read_status();
+uint16_t pot_get_v_wiper();
+uint16_t pot_get_nv_wiper();
 void pot_set_v_wiper(uint16_t v);
 void pot_set_nv_wiper(uint16_t v);
 
